@@ -1,6 +1,6 @@
 # Caia CLI - Chat with Claude 3.5 Sonnet
 
-Caia CLI is a  command-line interface that allows you to interact with Claude 3.5 Sonnet to manage your codebase and Excel files. It provides seamless integration for creating, editing, and reading files with AI assistance. It is a work in progress and not ready for use yet. Please contribute to the project or wait for the next release.
+Caia CLI is a  command-line interface that allows you to interact with Claude 3.5 Sonnet to manage your codebase and Excel files. It provides seamless integration for creating, editing, and reading files with AI assistance. It is a work in progress and not ready for practical use and production environments, use it and help us improve it . Please contribute to the project or wait for the next release.
 
 ## Features
 
